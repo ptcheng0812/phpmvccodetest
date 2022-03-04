@@ -14,7 +14,7 @@ class Signup extends \Core\Controller
 {
 
     /**
-     * Show the signup page
+     *
      *
      * @return void
      */
@@ -23,7 +23,7 @@ class Signup extends \Core\Controller
         View::renderTemplate('Signup/new.html');
     }
     /**
-     * Signup new user
+     *
      *
      * @return void
      */

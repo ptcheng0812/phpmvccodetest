@@ -14,7 +14,7 @@ class Search extends \Core\Controller
 {
 
     /**
-     * Show the login page
+     *
      *
      * @return void
      */
@@ -24,7 +24,7 @@ class Search extends \Core\Controller
     }
 
     /**
-     * Log in a user
+     *
      *
      * @return void
      */
